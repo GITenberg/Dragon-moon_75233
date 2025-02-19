@@ -1,0 +1,76 @@
+_repo: Dragon-moon_75233
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Bok, Hannes
+    alias: Woodard, Wayne Francis
+    birthdate: 1914
+    deathdate: 1964
+    gutenberg_agent_id: '51643'
+    url: http://www.gutenberg.org/2009/agents/51643
+    wikipedia: https://en.wikipedia.org/wiki/Hannes_Bok
+  - agent_name: De Lay, H. S. (Harold Saylor)
+    aliases:
+    - DeLay, H. S.
+    - Lay, H. S. De
+    - Lay, H. S. de
+    - DeLay, Harold
+    - Lay, Harold S. De
+    - Lay, Harold Saylor De
+    birthdate: 1876
+    deathdate: 1950
+    gutenberg_agent_id: '37532'
+    url: http://www.gutenberg.org/2009/agents/37532
+creator:
+  author:
+    agent_name: Kuttner, Henry
+    aliases:
+    - Liddell, C. H.
+    - Smith, Woodrow Wilson
+    - Hammond, Keith
+    - Hastings, Hudson
+    birthdate: 1915
+    deathdate: 1958
+    gutenberg_agent_id: '35061'
+    url: http://www.gutenberg.org/2009/agents/35061
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Kuttner
+description: 'Reading ease score: 86.1 (6th grade). Easy to read.'
+gutenberg_bookshelf: 'Browsing: Science-Fiction & Fantasy'
+gutenberg_issued: '2025-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75233'
+language: en
+pgterms:marc905: 20250126080407kuttner
+pgterms:marc906: '1940'
+pgterms:marc907: US
+production_note: Delphine Lettau, Greg Weeks, Mary Meehan & the online Distributed
+  Proofreaders Canada team at http://www.pgdpcanada.net
+publication_note: '  $aNew York, NY :$bWeird Tales, $c1940.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note:
+- Produced from Weird Tales, January 1941.
+- Elak
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Atlantis (Legendary place) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+summary: '"Dragon Moon" by Henry Kuttner is a novelette of lost Atlantis written during
+  the early 20th century. The story follows Elak, a descendant of the royal line of
+  Cyrena, as he battles the malevolent entity known as Karkora, the Pallid One, who
+  has possessed Sepher, the king of Kiriath. Delving into themes of magic, ancient
+  legends, and personal destiny, the narrative weaves together adventure and the supernatural
+  against a richly imagined backdrop of Atlantis.  In the tale, Elak faces numerous
+  challenges as he discovers the truth about Karkora and the fate of his family. After
+  a tumultuous journey that leads him to encounter allies, including Aynger of Amenalk
+  and Mayana, a sea-witch, he learns that Karkora is an abomination created from the
+  dark sorcery of Erykion. Armed with newfound strength and a magical talisman, Elak
+  ultimately confronts Karkora and Sepher in a climactic battle for the fate of Cyrena.
+  With themes of sacrifice and the struggle against malevolent forces, Kuttner crafts
+  a gripping narrative that showcases the hero''s journey in a world where magic reigns
+  and ancient evils lurk. (This is an automatically generated summary.)'
+title: Dragon moon
+url: http://www.gutenberg.org/ebooks/75233
